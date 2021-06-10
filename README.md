@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivi-hoang
 - 👀 I’m interested in using technology to tell stories.
-- 🌱 I’m currently studying computer science and trying to teach myself web development. 😅
+- 🌱 I’m currently studying computer science.💻😵
 - 📫 Reach me at hoangphu@mail.gvsu.edu.
 
 <!---
