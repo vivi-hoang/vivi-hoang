@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivi-hoang
-- 👀 I’m interested in using technology to tell stories and provide access to information.
-- 🌱 I recently completed a master's degree in computer science.💻😵
-- 📫 Reach me at hoangphu@mail.gvsu.edu.
+- 💼 Information professional
+- 🧵 Quilter
+- 👩🏻‍💻 Coding dabbler
 
 <!---
 vivi-hoang/vivi-hoang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
